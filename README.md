@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zweisamkeiten&theme=tokyonight)
   
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=zweisamkeiten&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![activity graph](https://activity-graph.herokuapp.com/graph?username=zweisamkeiten&theme=tokyonight&hide_border=true)
