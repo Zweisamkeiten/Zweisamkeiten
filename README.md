@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zweisamkeiten&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zweisamkeiten&layout=compact&theme=tokyonight&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl,GLSL,Emacs Lisp)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zweisamkeiten&layout=compact&theme=tokyonight&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl,GLSL,Emacs%20Lisp)
 
 ### Recent Activity
 
